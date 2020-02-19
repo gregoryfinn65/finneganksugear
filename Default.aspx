@@ -17,14 +17,12 @@
             height: 30px;
         }
         .auto-style4 {
-           
             height: 30px;
         }
         .auto-style5 {
             height: 30px;
         }
         .auto-style6 {
-            
             height: 46px;
         }
         .auto-style7 {
